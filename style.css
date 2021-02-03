@@ -1,0 +1,66 @@
+
+/* calculator */
+
+.main{
+    border: 1px solid black;
+    background-color:salmon;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+}
+.calculator{
+    background-color: whitesmoke;
+    padding: 100px;
+}
+.result{
+    padding: 10px;
+    width: 243px;
+    border: 2px solid black;
+    margin: 20px;
+    
+    
+}
+#result{
+    width: 255px;
+    height:50px;
+    margin: -10px;
+}
+
+.btnBox{
+    flex: auto;
+    padding: 0px;
+    margin: 10px;
+}
+.btn{
+    width: 80px;
+    height: 50px;
+    padding: 20px;
+    margin: 2px;
+    font-size: 20px;
+    text-align: center;
+    
+} 
+ 
+            /* app.js */
+
+.color{
+    background-color: skyblue;
+    color: whitesmoke;
+    /* width: 80px; */
+    /* height: 50px; */
+    /* padding: 20px; */
+    margin: 1px;
+    border-radius: 5px;
+    /* font-size: 20px; */
+    text-align: center;
+}
+.out{
+    /* width: 80px; */
+    /* height: 50px; */
+    /* padding: 20px; */
+    margin: 2px;
+    font-size: 20px;
+    text-align: center;
+
+}
